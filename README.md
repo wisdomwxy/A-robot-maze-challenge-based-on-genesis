@@ -1,5 +1,7 @@
 # A-robot-maze-challenge-based-on-genesis
 Walking control and visualization demonstration of the Unitree Go2 quadruped robot based on the Genesis simulation platform, as well as the car searching for the finish line in the maze.
+基于Genesis仿真平台的Unitree Go2四足机器人行走控制与可视化演示，以及小车在迷宫中寻找终点线。
+# 中文版本
 # 小车迷宫寻优（base）使用教程
 
 **项目目录**
@@ -13,7 +15,7 @@ Walking control and visualization demonstration of the Unitree Go2 quadruped rob
 
 **终端**
 
-![](file://C:\Users\29614\AppData\Roaming\marktext\images\2025-09-08-19-58-07-image.png?msec=1759325406919)
+![](file:./figure/2.png?msec=1759325406919)
 
 激活环境，确保终端目录再上图的地址，在终端执行：
 
@@ -46,6 +48,6 @@ python maze_navigation_demo_genesis_0_2_1.py --maze-type recursive_backtracking 
 
 如果录制的运行视频，视角太小，请调整**robot_controller.py**程序的170行左右的设置来改变相机位置
 
-![](file://C:\Users\29614\AppData\Roaming\marktext\images\2025-09-08-19-52-59-image.png?msec=1759325406920)
+![](file:./figure/3.png?msec=1759325406919)
 
 在videos路径下出现相应视频
