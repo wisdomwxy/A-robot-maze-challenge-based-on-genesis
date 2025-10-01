@@ -15,7 +15,7 @@ Walking control and visualization demonstration of the Unitree Go2 quadruped rob
 
 **终端**
 
-![](file:./figure/2.png?msec=1759325406919)
+![](./figure/2.png?msec=1759325406919)
 
 激活环境，确保终端目录再上图的地址，在终端执行：
 
@@ -48,6 +48,6 @@ python maze_navigation_demo_genesis_0_2_1.py --maze-type recursive_backtracking 
 
 如果录制的运行视频，视角太小，请调整**robot_controller.py**程序的170行左右的设置来改变相机位置
 
-![](file:./figure/3.png?msec=1759325406919)
+![](./figure/3.png?msec=1759325406919)
 
 在videos路径下出现相应视频
