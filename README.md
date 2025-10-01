@@ -8,15 +8,6 @@ Walking control and visualization demonstration of the Unitree Go2 quadruped rob
 
 # 小车迷宫寻优（base）使用教程
 
-**项目目录**
-
-绿色框为自己新建文件夹
-
-红色框为压缩包解压的
-
-![](./figure/1.png?msec=1759325406919)
-
-
 **终端**
 
 ![](./figure/2.png?msec=1759325406919)
