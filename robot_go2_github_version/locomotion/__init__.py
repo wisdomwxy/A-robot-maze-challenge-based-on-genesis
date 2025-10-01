@@ -1,0 +1,2 @@
+"""Locomotion package initializer."""
+

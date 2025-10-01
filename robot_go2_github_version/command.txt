@@ -1,0 +1,3 @@
+genesis-env\Scripts\activate
+D:\pyc_workspace\RoboticsLessons-main\genesis-env\Scripts\activate
+D:\pyc_workspace\RoboticsLessons-main\genesis-env\Scripts\Activate.ps1
