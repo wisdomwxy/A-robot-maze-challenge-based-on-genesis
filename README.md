@@ -1,13 +1,13 @@
 # A-robot-maze-challenge-based-on-genesis
-Walking control and visualization demonstration of the Unitree Go2 quadruped robot based on the Genesis simulation platform, as well as the car searching for the finish line in the maze.
-基于Genesis仿真平台的Unitree Go2四足机器人行走控制与可视化演示，以及小车在迷宫中寻找终点线。
+Walking control and visualization demonstration of the Unitree Go2 quadruped robot based on the Genesis simulation platform, as well as the car searching for the finish line in the maze.  
+基于Genesis仿真平台的Unitree Go2四足机器人行走控制与可视化演示，以及小车在迷宫中寻找终点线。  
 
 ## <1>Our research objectives:
 
-**Objective 1:** Develop a highly flexible Genesis maze simulation environment.✔
-**Objective 2**: Implement autonomous path planning for robots, integrating and comparing five major algorithms (A*, Dijkstra, BFS, DFS, Q-Learning).✔
-**Objective 3**: Provide immersive 3D visualization and process recording.✔
-
+**Objective 1:** Develop a highly flexible Genesis maze simulation environment.✔  
+**Objective 2**: Implement autonomous path planning for robots, integrating and comparing five major algorithms (A*, Dijkstra, BFS, DFS, Q-Learning).✔  
+**Objective 3**: Provide immersive 3D visualization and process recording.✔  
+  
 ## <2>Future goals
 1. Add the steering function of the car model
 2. Train the go2 robot to find its way in a maze using reinforcement learning
