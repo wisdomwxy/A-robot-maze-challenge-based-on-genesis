@@ -13,37 +13,47 @@ Walking control and visualization demonstration of the Unitree Go2 quadruped rob
 2. Train the go2 robot to find its way in a maze using reinforcement learning
 
 ## <3>Introduction to Path Optimization Algorithms
-The A* (A-star) algorithm is one of the most popular and widely used pathfinding algorithms in computer science and artificial intelligence. It's renowned for its efficiency and ability to find the shortest path between a starting node and a goal node in a graph or grid.
+The A* (A-star) algorithm is one of the most popular and widely used pathfinding algorithms in computer science and artificial intelligence.   
+It's renowned for its efficiency and ability to find the shortest path between a starting node and a goal node in a graph or grid.  
 
-Dynamic demonstration of A* algorithm：
+Dynamic demonstration of A* algorithm：  
 ![](./figure/1.gif?msec=1759325406919)
-For the visualization of path optimization, please refer to the link:https://gallery.selfboot.cn/zh/algorithms
+For the visualization of path optimization, please refer to the link:https://gallery.selfboot.cn/zh/algorithms  
 ## <4>We use the URDF model
-1.simple car
+**1.simple car**  
+
 ![](./figure/4.png?msec=1759325406919)
-2.go2 robot
+
+**2.go2 robot**
+
 ![](./figure/5.png?msec=1759325406919)
 
 ## <5>Visual display of program operation
 1.simple car
+
+
 ![](./figure/2.gif?msec=1759325406919)
+
 2.go2 robot
+
+
 ![](./figure/3.gif?msec=1759325406919)
+
 ## <6>Quick project usage tutorial
 ![](./figure/2.png?msec=1759325406919)
-Activate the environment and ensure that the terminal directory is at the address shown in the above picture. In the terminal, execute:
-**genesis-env\Scripts\activate**
-If the above command reports an error, execute the following command
-**D:\pyc_workspace\RoboticsLessons-main\genesis-env\Scripts\Activate.ps1**
-As you can see, our project is stored in the "pyc_workspace" path. Please adjust it according to your actual path.
-If a red error message appears indicating that the script cannot be executed, then open powershell as an administrator
-Execution：
-**set-executionpolicy remotesigned**
-Just enter **Y** directly as prompted
+Activate the environment and ensure that the terminal directory is at the address shown in the above picture. In the terminal, execute:  
+**genesis-env\Scripts\activate**  
+If the above command reports an error, execute the following command  
+**D:\pyc_workspace\RoboticsLessons-main\genesis-env\Scripts\Activate.ps1**  
+As you can see, our project is stored in the "pyc_workspace" path. Please adjust it according to your actual path.  
+If a red error message appears indicating that the script cannot be executed, then open powershell as an administrator  
+Execution：  
+**set-executionpolicy remotesigned**  
+Just enter **Y** directly as prompted  
 
-Then the terminal executes:
-**python maze_navigation_urdf_demo.py**
-If the error "plane size" is reported, you need to upgrade genesis to the latest version (our genesis version is **0.3.3**).
+Then the terminal executes:  
+**python maze_navigation_urdf_demo.py**  
+If the error "plane size" is reported, you need to upgrade genesis to the latest version (our genesis version is **0.3.3**).  
 
 # 中文版本
 # 项目整体功能展示
