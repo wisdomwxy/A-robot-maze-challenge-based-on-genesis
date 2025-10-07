@@ -29,15 +29,17 @@ For the visualization of path optimization, please refer to the link:https://gal
 ![](./figure/5.png?msec=1759325406919)
 
 ## <5>Visual display of program operation
-1.simple car
+**1.simple car**
 
 
 ![](./figure/2.gif?msec=1759325406919)
 
-2.go2 robot
+**2.go2 robot**
 
 
 ![](./figure/3.gif?msec=1759325406919)
+
+We are currently unable to walk normally and are trying to solve the problem.
 
 ## <6>Quick project usage tutorial
 ![](./figure/2.png?msec=1759325406919)
@@ -54,35 +56,6 @@ Just enter **Y** directly as prompted
 Then the terminal executes:  
 **python maze_navigation_urdf_demo.py**  
 If the error "plane size" is reported, you need to upgrade genesis to the latest version (our genesis version is **0.3.3**).  
-
-# 中文版本
-# 项目整体功能展示
-
-![](./figure/2.gif?msec=1759325406919)
-
-# 小车迷宫寻优（base）使用教程
-
-**终端**
-
-![](./figure/2.png?msec=1759325406919)
-
-激活环境，确保终端目录再上图的地址，在终端执行：
-
-genesis-env\Scripts\activate
-
-如果上述命令报错则执行一下命令
-
-D:\pyc_workspace\RoboticsLessons-main\genesis-env\Scripts\Activate.ps1
-
-如果出现红色报错，说无法执行脚本，那么以管理员身份打开powershell
-
-执行：
-
-set-executionpolicy remotesigned
-
-根据提示直接输入**Y**即可
-
-然后终端执行：
 
 python maze_navigation_urdf_demo.py
 
