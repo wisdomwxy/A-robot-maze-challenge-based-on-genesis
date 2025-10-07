@@ -57,9 +57,3 @@ Then the terminal executes:
 **python maze_navigation_urdf_demo.py**  
 If the error "plane size" is reported, you need to upgrade genesis to the latest version (our genesis version is **0.3.3**).  
 
-python maze_navigation_urdf_demo.py
-
-如果报错**plane size**问题就需要升级genesis为最新版本
-
-A*算法动态演示
-![](./figure/1.gif?msec=1759325406919)
