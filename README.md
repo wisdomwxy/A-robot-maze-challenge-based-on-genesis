@@ -103,3 +103,15 @@ python maze_navigation_go2_gait_demo.py
 ```
 If the error "plane size" is reported, you need to upgrade genesis to the latest version (our genesis version is **0.3.3**).  
 
+## <7>Project Update  
+We have updated the new branch of the go2 robot.  
+You need to enter the relevant folder first. Please type the following command in the terminal:  
+
+```bash
+cd go2_ww
+```
+Then type the run code in the terminal:  
+
+```bash
+python  maze_navigation_go2_gait_demo.py
+```
