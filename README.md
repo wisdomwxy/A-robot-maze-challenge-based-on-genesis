@@ -113,5 +113,5 @@ cd go2_ww
 Then type the run code in the terminal:  
 
 ```bash
-python  maze_navigation_go2_gait_demo.py
+python maze_navigation_go2_gait_demo.py
 ```
