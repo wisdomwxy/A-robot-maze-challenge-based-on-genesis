@@ -77,6 +77,19 @@ set-executionpolicy remotesigned
 ```
 Just enter **Y** directly as prompted  
 
+Because there are two small projects in our project.  
+So to execute the corresponding code, you need to enter the folder where the small project is located, for example:
+
+```bash
+cd simple_car
+```
+
+or
+
+```bash
+cd robot_go2_github_version
+```
+
 Then the terminal executes: 
 ```bash
 python maze_navigation_urdf_demo.py
