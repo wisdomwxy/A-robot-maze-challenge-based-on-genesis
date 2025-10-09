@@ -90,9 +90,16 @@ or
 cd robot_go2_github_version
 ```
 
-Then the terminal executes: 
+Then the terminal executes(simple_car): 
+
 ```bash
 python maze_navigation_urdf_demo.py
+```
+
+Or you can type the following code in the terminal(robot_go2_github_version)：
+
+```bash
+maze_navigation_go2_gait_demo.py
 ```
 If the error "plane size" is reported, you need to upgrade genesis to the latest version (our genesis version is **0.3.3**).  
 
