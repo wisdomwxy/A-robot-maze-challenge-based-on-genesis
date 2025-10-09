@@ -55,7 +55,8 @@ or
 The script will automatically execute all the above steps and output the result of each step in the command line (✅ indicates success, ❌ indicates failure, ⚠️ indicates warning). If you encounter a ❌ Error, you need to correct it based on the error message (for example, Python version too low).
 
 
-![](./figure/2.png?msec=1759325406919)
+![](./figure/2.png?msec=1759325406919)  
+
 Activate the environment and ensure that the terminal directory is at the address shown in the above picture. In the terminal, execute:  
 
 ```bash
